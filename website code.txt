@@ -1,29 +1,35 @@
 <html>
 <head>
-<title>hello my name is Tavish Jani
+<meta charset="UTF-8">
+<title>Imagine this as a perfume title
 </title>
+<style>
+body {background-color: #32CDE6;}
+.square{width: 90%;
+max-width: 800px;
+height: auto;
+background: white;
+margin: 0 auto;
+padding: 20px;} 
+position: relative;
+left: 1000px;
+bottom: 250px;}
+a {color: #D9B04C; text-decoration: none;}
+</style>
 </head>
 <body>
-<body bgcolor="32CDE6">
-Pefume shop placeholder text
+<p style="font-size: 30px;">Perfume shop placeholder text</p>
+<p style="font-family: Arial, sans-serif;">Perfume shop placeholder</p>
 <p>
 also check out this for example
-<a href="https://www.google.com" rel="norefferer">visit google</a>
+<a href="https://www.google.com" rel="noopener noreferrer">visit google</a>
 </p>
-<text>or this</text>
-<a href="https://lichess.org/" rel="noreferrer">visit lichess</a>
-<style>
-a {color: #D9B04C; text-decoration: none;}
-</body>
-<div>
-<style>
-<div class="square">
-<style>.square {width: 300px;height: 200px;}
-<div style="position: relative;left: 50px; top: 20px;">
+<p>or this</p>
+<a href="https://lichess.org/" rel="noopener noreferrer">visit lichess</a>
+<p>well I am tired and the rectangle is not moving so lets add another link just for example</p>
+<a href="https://www.chess.com" rel="noopener noreferrer">visit chess</a>
+<div class ="square">
+<p>yay a rectangle</p>
 </div>
-
-background: white;
-</style>
-<text>yay a rectangle
-</text>
+</body>
 </html>
